@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="Dockerfile_mq" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_ssh_rsync" type="PLAIN_TEXT" />
       <mapping ext="dist-docker" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />

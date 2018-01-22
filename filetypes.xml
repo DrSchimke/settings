@@ -1,15 +1,17 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="Dockerfile_mq" type="PLAIN_TEXT" />
-      <mapping pattern="1,json" type="PLAIN_TEXT" />
-      <mapping pattern="diff" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile_ssh_rsync" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="foo" type="PLAIN_TEXT" />
-      <mapping pattern="test2" type="PLAIN_TEXT" />
-      <mapping pattern="2" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile_ssh_rsync" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile_mq" type="PLAIN_TEXT" />
+      <mapping pattern="2" type="PLAIN_TEXT" />
+      <mapping pattern="test2" type="PLAIN_TEXT" />
+      <mapping pattern="diff" type="PLAIN_TEXT" />
+      <mapping pattern="1,json" type="PLAIN_TEXT" />
+      <mapping pattern="foo" type="PLAIN_TEXT" />
+      <mapping pattern="b" type="PLAIN_TEXT" />
+      <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="dist-docker" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />

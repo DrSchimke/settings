@@ -10,6 +10,7 @@
       <mapping pattern="test2" type="PLAIN_TEXT" />
       <mapping pattern="diff" type="PLAIN_TEXT" />
       <mapping pattern="1,json" type="PLAIN_TEXT" />
+      <mapping pattern="foooo" type="PLAIN_TEXT" />
       <mapping pattern="foo" type="PLAIN_TEXT" />
       <mapping pattern="apex" type="PLAIN_TEXT" />
       <mapping pattern="b" type="PLAIN_TEXT" />

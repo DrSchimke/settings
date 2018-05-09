@@ -16,6 +16,7 @@
       <mapping pattern="b" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
+      <mapping ext="rpt" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="dist-docker" type="PLAIN_TEXT" />
       <mapping ext="d" type="PLAIN_TEXT" />
